@@ -16,3 +16,17 @@ body {
 /* ***********UTILITIES************ */
 
 /* ***********CONTENT************ */
+
+.container{
+  background-image:url(https://www.focusjunior.it/content/uploads/2019/02/pari-dispari-1280x720.jpg);
+  margin: 50px auto;
+  max-width: 600px;
+  background-color: brown;
+  color: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  border: 20px solid black;
+}
+h1, h2{
+  text-align: center;
+}
