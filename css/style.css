@@ -11,6 +11,8 @@
 
 body {
   font-family: sans-serif;
+  background-image:url(https://www.focusjunior.it/content/uploads/2019/02/pari-dispari-1280x720.jpg);
+  background-size: repeat;
 }
 
 /* ***********UTILITIES************ */
@@ -18,7 +20,7 @@ body {
 /* ***********CONTENT************ */
 
 .container{
-  background-image:url(https://www.focusjunior.it/content/uploads/2019/02/pari-dispari-1280x720.jpg);
+  
   margin: 50px auto;
   max-width: 600px;
   background-color: brown;
